@@ -20,8 +20,9 @@ Cada capítulo tiene su propia carpeta donde incluyo:
 El objetivo es documentar todo mi proceso de aprendizaje de Python desde cero hasta un nivel sólido.
 
 ---
-
 ## 🗂️ Estructura del proyecto
+
+```
 python-course-data-with-baraa/
 │
 ├── Chapter-01-Python-Fundamentals/
@@ -34,8 +35,7 @@ python-course-data-with-baraa/
 ├── Chapter-08-Functions/
 │
 └── README.md
-
-
+```
 ---
 
 ## 📚 Contenido del curso
